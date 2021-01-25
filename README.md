@@ -7,11 +7,11 @@ The purpose of this project was to analyze the differences between three differe
 ## Resources
 
 - Data Resources: city_data.csv and ride_data.csv
-- Software: Juypiter Notebook, Python 3.9.1, Visual Studio Code 1.51.1, jupyter-notebook 6.1.4
+- Software: Python 3.9.1, Visual Studio Code 1.51.1, jupyter-notebook 6.1.4
 
 # Results
 
-Initially I created a DataFrame to produce the numerical information regarding the three city types as seen in image below:
+Initially, I created a DataFrame to produce the numerical information regarding the three city types as seen in image below:
 
 ![](/analysis/pyber_summary.png)
 
@@ -50,4 +50,4 @@ The data makes it clear that urban cities are where the most money in fares are 
 2. Increase the prices in urban cities. Because of the high demand for PyBer in urban areas, increasing prices in small incrememnts could lead to significant financial gains without significant loss in total rides. This would in turn lead to significant increase in fare recenues in an area that tends to have shorter and therefore less expensive fares.
 3. Decrease the number of dirvers in urban areas. There are nearly four times as many drivers in urban areas as there are in suburban areas, which is has lead to a signifcant decrease in average fare per driver. The low earnings per driver could lead to higher quality drivers leaving PyBer to find better work elsewherem which in turn could lead to poorer services for our customers. By moving the fares per driver average up, you ensure quality service and continued high demand in those areas, which will be important if you also raise prices in the area.
 
-By following these recommendations, PyBer will be able to increase their revenues in these areas and ultimately become an even m ore successful company.
+By following these recommendations, PyBer will be able to increase their revenues in these areas and ultimately become an even more successful company.
